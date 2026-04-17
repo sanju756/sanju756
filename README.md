@@ -1,16 +1,53 @@
-## Hi there 👋
+# 🚀 SANJU M
 
-<!--
-**sanju756/sanju756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Enthusiast | Full Stack Developer | Data-Driven Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 ABOUT ME
+
+* 🎓 Computer Science Engineering Student
+* 🤖 Passionate about **AI, Machine Learning & Real-world Applications**
+* 🌐 Skilled in **Full Stack Development**
+* 🚀 Focused on building **impactful, scalable solutions**
+
+---
+
+## 🔥 FEATURED PROJECTS
+
+### 🏥 Medical Chatbot
+
+* AI-powered chatbot for basic medical assistance
+* Uses NLP to understand user symptoms
+* Provides preliminary health guidance
+
+
+---
+
+## 🛠 TECH STACK
+
+**Languages:** Python, Java
+**Frontend:** React
+**Backend:** Node.js, FastAPI
+**Database:** MySQL
+**Tools:** Pandas, NumPy
+
+---
+
+## 📈 GITHUB STATS
+
+<!-- Add your GitHub stats images here -->
+
+---
+
+## 📬 CONNECT
+
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: your-link
+* 💻 GitHub: your-profile-link
+
+---
+
+## 💡 MOTTO
+
+"Learn • Build • Improve"
